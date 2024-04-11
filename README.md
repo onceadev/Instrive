@@ -7,3 +7,5 @@
 # Companyinfo page validation completed
 
 # Portfolio page UI completed
+
+# Portfolio page Duplicate Fields functionality completed
